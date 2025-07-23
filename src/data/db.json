@@ -1,0 +1,25 @@
+{
+  "associate": [
+    {
+      "id": 1,
+      "name": "Ravi Sharma",
+      "address": "MG Road",
+      "creditlimit": 1500,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Neha Verma",
+      "address": "Park Street",
+      "creditlimit": 3000,
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Abdul Kahir",
+      "address": "RK Nagar",
+      "creditlimit": 6000,
+      "status": true
+    }
+  ]
+}
